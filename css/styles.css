@@ -1,0 +1,93 @@
+body {
+	font-family: 'Permanent Marker', cursive;
+	margin: auto;
+	width: 800px;
+
+
+}
+
+
+header {
+	background: black;
+	padding: 0 0 30px 0;
+}
+
+
+footer {
+	background-color: black;
+}
+
+
+.links {
+	font-size: 30px;
+	color: #DCB700;
+	text-decoration: none;
+	margin: 0 25px;
+
+}
+
+#linknav {
+
+	text-align: center;
+
+}
+
+#willsmith {
+	font-size: 90px;
+	color: white;
+	-webkit-text-stroke: .1px #DCB700;
+	text-align: center;
+	margin: 0 0 0 0;
+}
+
+#norelation{
+	font-size: 50px;
+	color: white;
+	-webkit-text-stroke: .1px #DCB700;
+	text-align: center;
+	margin: -25px 0 10px 0;
+}
+
+#profilebody {
+	text-align: center;
+}
+
+h3 {
+	color: #DCB700;
+	background: black;
+	margin: 10px 90px;
+	font-size: 22px;
+}
+
+p {
+		font-size: 15px;
+		padding : 0 150px;
+		margin: 10px 0 25px 0;
+}
+
+#myface {
+	height: 275px;
+	widows: 275px;
+	border: 10px solid black;
+	border-radius: 8px;
+	margin: 25px 0 0 0;
+}
+
+#contactlinks {
+	text-align: center;
+}
+
+#coolshitbody {
+	margin: 20px 0 20px 0;
+	text-align: center;
+}
+
+.coolpics{
+	height: 225px;
+	width: 225px;
+	border: 5px solid black;
+	border-radius: 5px;
+	}
+
+
+
